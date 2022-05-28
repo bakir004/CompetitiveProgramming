@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616863345 source:f:\windows 10 erolp user folder\desktop\autotest\main.cpp
+	<iostream>
+	<fstream>
+

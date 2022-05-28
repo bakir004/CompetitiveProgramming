@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616863749 source:f:\windows 10 erolp user folder\desktop\pbgs klub programiranja\09.03.2021\priprema za skolsko takmicenje\hhh\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<cmath>
+

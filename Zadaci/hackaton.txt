@@ -1,0 +1,12 @@
+4
+Agunimon 521
+DukeNukem 782
+Charmander 0
+Eevee 521
+6
+Agunimon
+DukeNukem
+Agunimon
+Eevee
+Pikachu
+Charmander
