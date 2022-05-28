@@ -1,5 +1,5 @@
 # Takmičarsko programiranje #
-Bakir Činjarević
+## Bakir Činjarević
 
 ## Sadržaj ##
 
